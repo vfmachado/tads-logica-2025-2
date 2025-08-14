@@ -1,0 +1,26 @@
+ALGORITMO
+    SEQUENCIA DE PASSOS BEM DEFINIDOS, ORDENADOS, CLAROS, CONCISOS, PARA A SOLUÇÃO DE UM PROBLEMA
+
+LINGUAGEM DE PROGRAMAÇÃO
+    ESCREVER O CÓDIGO FONTE (ALGORITMO) EM UM FORMATO ESPECIFICO QUE O COMPUTADOR É CAPAZ DE "ENTENDER"
+
+CODIGO FONTE 
+    O QUE ESCREVEMOS (TEXTO) QUE IRÁ GERAR O MEU PROGRAMA, ESCRITO EM UMA LINGUAGEM DE PROGRAMAÇÃO
+
+IDE 
+    - AMBIENTE DE DESENVOLVIMENTO INTEGRADO
+    - é um software com varias funcionalidades para a criação, depuração, terminal integrado e tudo mais
+
+COMPILAÇÃO
+    Processo que transforma o código fonte em algo que a máquina é capaz de executar
+
+    javac NomeArquivo.java
+
+    foi gerado um arquivo NomeArquivo.class
+
+JRE
+    Java Runtime - Software que executa programas em Java
+    para rodar o nosso programa.
+
+    java NomeArquivo
+
