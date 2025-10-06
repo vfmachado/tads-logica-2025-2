@@ -11,7 +11,7 @@ public class Desenho11 {
             while(coluna < n) {
                 if (linha == coluna) {
                     System.out.print(" # ");
-                } else if (linha + coluna == 9){
+                } else if (linha + coluna == n-1){
                     System.out.print(" # ");
                 } else {
                     System.out.print(" - ");
