@@ -1,0 +1,1 @@
+tads-logica-2025-2/_AVS/Avaliação Remota II.pdf
